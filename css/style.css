@@ -416,6 +416,12 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   color: #da1212;
 }
 
+.fh5co-heading-category {
+  color: #da1212;
+  font-size: 28px;
+  font-weight: bold;
+}
+
 .fh5co-cards {
   padding: 1em 0;
   background: #e6e6e6;
